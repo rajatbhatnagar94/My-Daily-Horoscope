@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="536RajatBhatnagar.MyTodaysHoroscope" Publisher="CN=3D588BEF-6684-4B24-9DDB-CFE24014EE35" Version="2.0.0.1" />
+  <Properties>
+    <DisplayName>My Today's Horoscope</DisplayName>
+    <PublisherDisplayName>Rajat Bhatnagar</PublisherDisplayName>
+    <Logo>Assets\store.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Horoscope.App">
+      <VisualElements DisplayName="My Today's Horoscope" Logo="Assets\sm2.png" SmallLogo="Assets\small.png" Description="Horoscope" ForegroundText="light" BackgroundColor="#5e8dab">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\wl.png" />
+        <SplashScreen Image="Assets\da.png" BackgroundColor="#ffffff" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

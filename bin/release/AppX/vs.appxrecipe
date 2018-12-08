@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJAT-PC</Machine>
+    <WindowsUser>Rajat</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>07A370976DDA900889265341DD93AF5EE993C900E50D57FF30E06C6120814246</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>536RajatBhatnagar.MyTodaysHoroscope_2.0.0.1_neutral__yjgn07zpr77gm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>536RajatBhatnagar.MyTodaysHoroscope_yjgn07zpr77gm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>536RajatBhatnagar.MyTodaysHoroscope</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3D588BEF-6684-4B24-9DDB-CFE24014EE35</RegisteredPackagePublisher>
+    <RegisteredVersion>2.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-05T11:16:18.279</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\Horoscope.exe">
+      <PackagePath>Horoscope.exe</PackagePath>
+      <Modified>2014-03-21T14:14:48.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\Horoscope.pdb">
+      <PackagePath>Horoscope.pdb</PackagePath>
+      <Modified>2014-03-21T14:14:48.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Aqu.png">
+      <PackagePath>Assets\Aqu.png</PackagePath>
+      <Modified>2013-12-25T17:15:38.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\ari.png">
+      <PackagePath>Assets\ari.png</PackagePath>
+      <Modified>2013-12-25T17:01:59.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\batch.png">
+      <PackagePath>Assets\batch.png</PackagePath>
+      <Modified>2013-12-29T18:28:02.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Can.png">
+      <PackagePath>Assets\Can.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Cap.png">
+      <PackagePath>Assets\Cap.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\da.png">
+      <PackagePath>Assets\da.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-20T19:55:29.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Gem.png">
+      <PackagePath>Assets\Gem.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Leo.png">
+      <PackagePath>Assets\Leo.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Lib.png">
+      <PackagePath>Assets\Lib.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\nointernet.png">
+      <PackagePath>Assets\nointernet.png</PackagePath>
+      <Modified>2013-12-29T19:49:51.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\pan.png">
+      <PackagePath>Assets\pan.png</PackagePath>
+      <Modified>2013-12-25T17:15:38.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Pis.png">
+      <PackagePath>Assets\Pis.png</PackagePath>
+      <Modified>2013-12-25T17:09:33.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Sag.png">
+      <PackagePath>Assets\Sag.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Sco.png">
+      <PackagePath>Assets\Sco.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\sm2.png">
+      <PackagePath>Assets\sm2.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-29T18:18:10.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\small.png">
+      <PackagePath>Assets\small.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-29T18:28:03.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\store.png">
+      <PackagePath>Assets\store.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-30T13:47:35.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\tau.png">
+      <PackagePath>Assets\tau.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\Vir.png">
+      <PackagePath>Assets\Vir.png</PackagePath>
+      <Modified>2013-12-25T17:09:36.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\wha.png">
+      <PackagePath>Assets\wha.png</PackagePath>
+      <Modified>2013-12-25T18:21:01.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\Assets\wl.png">
+      <PackagePath>Assets\wl.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-29T18:18:07.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-19T12:32:51.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\Common\BlankPage1.xaml">
+      <PackagePath>Common\BlankPage1.xaml</PackagePath>
+      <Modified>2013-12-29T20:03:59.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2014-01-25T10:46:08.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\Horoscope\Horoscope\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-05T11:16:18.218</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
